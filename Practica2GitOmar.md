@@ -55,3 +55,7 @@ Para cambiar el mensaje del commit se usa:
 $git commit --amend -m "Mensaje"
 ```
 ![](Imagenes/Captura12.png)
+
+
+
+Link a GitHub: https://github.com/LlinaresOmar/Practica2Entornos
